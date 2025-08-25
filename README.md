@@ -4,7 +4,7 @@
 
 **Student Name**: Micka LOUIS    
 **Student Pace**: Self-paced    
-**Submission Deadline**: August 17, 2025    
+**Submission Deadline**: August 24, 2025    
 **Instructors' Names**: Wedter JEROME & Geovany Batista Polo LAGUERRE    
 **Blog Post URL**: https://github.com/Micka-Louis/ds-project-phase-3.git   
 
