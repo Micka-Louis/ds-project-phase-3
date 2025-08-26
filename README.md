@@ -178,9 +178,9 @@ Test other approaches (Gradient Boosting, XGBoost, CatBoost) to compare performa
 
 #  Repository Structure   
 ├── data   
-├── images  
-├── Presentation.pdf  
+├── images    
 ├── Final.ipynb  
 ├── Final.pdf  
-├── LICENSE  
+├── LICENSE
+├── Presentation.pdf
 └── README.md  
